@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+button {
+    background-color: green; /* Ubah "green" menjadi warna lain */
+    color: white; /* Warna teks dalam tombol */
+}
+h1 {
+    color: blue; /* Ubah "blue" menjadi warna lain, seperti "red", "#ff0000", atau "rgb(255, 0, 0)" */
+}
+body {
+    background-color: #f0f0f0; /* Warna latar belakang menggunakan hex */
+}
+
+h1 {
+    color: rgb(34, 34, 34); /* Warna teks menggunakan RGB */
+}
+
+button {
+    background-color: hsl(120, 60%, 70%); /* Warna latar belakang menggunakan HSL */
+    color: black;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: black; /* Mengatur warna latar belakang menjadi hitam */
+    color: white; /* Mengatur warna teks menjadi putih agar terlihat di latar belakang hitam */
+}
+
+h1 {
+    color: white; /* Pastikan warna teks judul dapat terlihat di latar belakang hitam */
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #3498db; /* Warna latar belakang tombol */
+    color: white; /* Warna teks tombol */
+    border: none;
+    border-radius: 5px; /* Membuat sudut tombol menjadi melengkung */
+}

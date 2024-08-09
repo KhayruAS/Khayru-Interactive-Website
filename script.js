@@ -1,0 +1,3 @@
+document.getElementById('myButton').addEventListener('click', function() {
+    alert('Ini gw buat interaktif website pake bahasa JavaScript bener-bener pure copy paste pake ChatGPT. Gw bener-bener ga punya basic ngoding, pertama kali belajar ngoding waktu kita ke UMN gw waktu itu milih jurusan Informatika, itupun cuma belajar HTML ama CSS doang ga belajar bahasa pemrograman (programming language) kaya JavaScript, Python, dan lain-lain.\n\nMenurut kalian kalau produk kita bikin website setuju ga?\n\nBahannya cuma butuh laptop, hp ama internet doang.\n\nBtw spek laptopnya ga perlu yang tinggi.');
+});
